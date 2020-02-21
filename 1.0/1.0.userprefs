@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{08150850-9589-4301-A85B-0B219EED601C}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.1.0 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\Projects for Git\Lab-work-5.cs">
+    <Files>
+      <File FileName="..\..\..\Projects for Git\Lab-work-5.cs" Line="400" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
